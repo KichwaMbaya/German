@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/oxfordblue"
+    tools:context=".applicato_successo">
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@mipmap/ic_launcher" />
+
+    <TextView
+        android:id="@+id/submitiontittle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:gravity="center"
+        android:text="Kreditantrag erfolgreich eingereicht."
+        android:textColor="@color/white"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView7"
+        app:layout_constraintVertical_bias="0.0" />
+
+
+    <Button
+        android:id="@+id/donee"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        android:background="@drawable/button_bg"
+        android:paddingStart="50dp"
+        android:paddingEnd="50dp"
+        android:text="ERLEDIGT"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/button_enterbank"
+        app:layout_constraintStart_toStartOf="@+id/button_enterbank"
+        app:layout_constraintTop_toBottomOf="@+id/submitiontittle"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <ScrollView
+        android:id="@+id/scrollView5"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:background="@drawable/scrollview_shape"
+        android:backgroundTint="#10ffffff"
+        app:layout_constraintBottom_toTopOf="@+id/button_enterbank"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/submitiontittle">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/submitioncontent"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="8dp"
+                android:padding="10dp"
+                android:text="--Sehr geehrter Kunde, wir haben Ihren Kreditantrag erhalten. Bitte haben Sie etwas Geduld, während wir es bearbeiten."
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:textStyle="normal"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.0" />
+
+            <TextView
+                android:id="@+id/secondpg"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="--Sie erhalten eine Benachrichtigung, die Sie darüber informiert, dass der Antrag bearbeitet wurde. Dies dauert normalerweise weniger als eine Stunde, kann aber an Wochenenden und Feiertagen bis zu 48 Stunden dauern."
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:padding="10dp"
+                android:textStyle="normal"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="@+id/submitioncontent"
+                app:layout_constraintStart_toStartOf="@+id/submitioncontent"
+                app:layout_constraintTop_toBottomOf="@+id/submitioncontent"
+                app:layout_constraintVertical_bias="0.0" />
+
+            <TextView
+                android:id="@+id/pragraph3"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="24dp"
+                android:padding="10dp"
+                android:text="--HINWEIS: Nach einem erfolgreichen Kreditantrag werden wir Ihr Darlehen innerhalb von 24 Stunden auf Ihr Bankkonto auszahlen. Es kann länger dauern, bis der Saldo auf Ihrem Bankkonto angezeigt wird, da einige Banken möglicherweise Zeit für die Bearbeitung von Transaktionen benötigen.\n\n--Bitte stellen Sie sicher, dass Sie uns Ihre Bankkontodaten mitgeteilt haben. Wenn nicht, klicken Sie auf die Schaltfläche unten, um es einzugeben.\n\n--Vielen Dank, dass Sie sich für uns entschieden haben."
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:textStyle="normal"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="@+id/submitioncontent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="@+id/submitioncontent"
+                app:layout_constraintTop_toBottomOf="@+id/secondpg"
+                app:layout_constraintVertical_bias="0.0" />
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/button_enterbank"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/button_bg"
+        android:paddingLeft="35dp"
+        android:paddingRight="35dp"
+        android:text="IBAN angeben"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/donee"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/submitiontittle"
+        app:layout_constraintVertical_bias="1.0" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

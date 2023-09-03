@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="a">Diese Datenschutzrichtlinie beschreibt unsere Richtlinien und Verfahren zur Erfassung, Nutzung und Offenlegung Ihrer Daten bei der Nutzung des Dienstes und informiert Sie über Ihre Datenschutzrechte und darüber, wie das Gesetz Sie schützt.</string>
+    <string name="b">Wir verwenden Ihre personenbezogenen Daten, um den Service bereitzustellen und zu verbessern. Durch die Nutzung des Dienstes stimmen Sie der Erfassung und Nutzung von Informationen gemäß dieser Datenschutzrichtlinie zu</string>
+    <string name="c">Erhebung und Nutzung Ihrer personenbezogenen Daten</string>
+    <string name="d">Arten der erfassten Daten</string>
+    <string name="e">Persönliche Daten</string>
+    <string name="f">Während der Nutzung unseres Dienstes bitten wir Sie möglicherweise, uns bestimmte persönlich identifizierbare Informationen zur Verfügung zu stellen, die zur Kontaktaufnahme oder Identifizierung mit Ihnen verwendet werden können. Persönlich identifizierbare Informationen können unter anderem Folgendes umfassen:</string>
+    <string name="g">-E-Mail-Adresse</string>
+    <string name="h">-Vorname und Nachname</string>
+    <string name="i">-Telefonnummer</string>
+    <string name="j">-Nutzungsdaten</string>
+    <string name="k">Identifizierungsnummer</string>
+    <string name="l">Nutzungsdaten</string>
+    <string name="m">Bei der Nutzung des Dienstes werden automatisch Nutzungsdaten erfasst.</string>
+    <string name="n">Zu den Nutzungsdaten können Informationen wie die Internetprotokolladresse Ihres Geräts (z. B. IP-Adresse), der Browsertyp, die Browserversion, die von Ihnen besuchten Seiten unseres Dienstes, die Uhrzeit und das Datum Ihres Besuchs sowie die auf diesen Seiten verbrachte Zeit gehören , eindeutige Gerätekennungen und andere Diagnosedaten</string>
+    <string name="o">Wenn Sie mit oder über ein Mobilgerät auf den Dienst zugreifen, erfassen wir möglicherweise automatisch bestimmte Informationen, einschließlich, aber nicht beschränkt auf, den Typ des von Ihnen verwendeten Mobilgeräts, die eindeutige ID Ihres Mobilgeräts, die IP-Adresse Ihres Mobilgeräts, Ihr Mobiltelefon Betriebssystem, die Art des von Ihnen verwendeten mobilen Internetbrowsers, eindeutige Gerätekennungen und andere Diagnosedaten.</string>
+    <string name="p">Wir erfassen möglicherweise auch Informationen, die Ihr Browser sendet, wenn Sie unseren Dienst besuchen oder wenn Sie mit oder über ein mobiles Gerät auf den Dienst zugreifen.</string>
+    <string name="q">Verwendung Ihrer persönlichen Daten</string>
+    <string name="r">Das Unternehmen kann personenbezogene Daten für folgende Zwecke verwenden:</string>
+    <string name="s">-Zur Bereitstellung und Wartung unseres Dienstes, einschließlich der Überwachung der Nutzung unseres Dienstes.</string>
+    <string name="t">-Um Ihr Konto zu verwalten: um Ihre Registrierung als Benutzer des Dienstes zu verwalten. Mit den von Ihnen bereitgestellten personenbezogenen Daten können Sie auf verschiedene Funktionen des Dienstes zugreifen, die Ihnen als registrierter Benutzer zur Verfügung stehen.</string>
+    <string name="u">-Für die Erfüllung eines Vertrags: die Entwicklung, Einhaltung und Durchführung des Kaufvertrags für die Produkte, Artikel oder Dienstleistungen, die Sie gekauft haben, oder eines anderen Vertrags mit uns über den Service.</string>
+    <string name="v">-Um Sie zu kontaktieren: Um Sie per E-Mail, Telefonanruf, SMS oder anderen gleichwertigen Formen der elektronischen Kommunikation zu kontaktieren, z. B. Push-Benachrichtigungen einer mobilen Anwendung zu Aktualisierungen oder informative Mitteilungen im Zusammenhang mit den Funktionen, Produkten oder vertraglich vereinbarten Diensten, einschließlich die Sicherheitsupdates, sofern dies für deren Implementierung erforderlich oder angemessen ist.</string>
+    <string name="w">-Um Ihnen Neuigkeiten, Sonderangebote und allgemeine Informationen über andere von uns angebotene Waren, Dienstleistungen und Veranstaltungen zukommen zu lassen, die denen ähneln, die Sie bereits gekauft oder angefragt haben, es sei denn, Sie haben sich dafür entschieden, solche Informationen nicht zu erhalten.</string>
+    <string name="x">-Um Ihre Anfragen zu verwalten: Um Ihre Anfragen an uns zu bearbeiten und zu verwalten.</string>
+    <string name="y">-Für Unternehmensübertragungen: Wir können Ihre Daten verwenden, um eine Fusion, Veräußerung, Umstrukturierung, Umstrukturierung, Auflösung oder einen anderen Verkauf oder eine andere Übertragung einiger oder aller unserer Vermögenswerte zu bewerten oder durchzuführen, sei es als Unternehmensfortführung oder im Rahmen einer Insolvenz oder Liquidation oder ein ähnliches Verfahren, bei dem die von uns gespeicherten personenbezogenen Daten über unsere Servicenutzer zu den übertragenen Vermögenswerten gehören.</string>
+    <string name="z">-Für andere Zwecke: Wir können Ihre Daten für andere Zwecke verwenden, z. B. zur Datenanalyse, zur Identifizierung von Nutzungstrends, zur Bestimmung der Wirksamkeit unserer Werbekampagnen und zur Bewertung und Verbesserung unseres Service, unserer Produkte, Dienstleistungen, unseres Marketings und Ihrer Erfahrung.</string>
+    <string name="aa">Wir können Ihre persönlichen Daten in den folgenden Situationen weitergeben:</string>
+    <string name="ab">-Für Geschäftsübertragungen: Wir können Ihre personenbezogenen Daten im Zusammenhang mit oder während Verhandlungen über eine Fusion, einen Verkauf von Unternehmensvermögenswerten, eine Finanzierung oder den Erwerb unseres gesamten Unternehmens oder eines Teils davon an ein anderes Unternehmen weitergeben oder übertragen.</string>
+    <string name="ac">-Mit Ihrer Zustimmung: Mit Ihrer Zustimmung können wir Ihre personenbezogenen Daten für andere Zwecke offenlegen.</string>
+    <string name="ad">Aufbewahrung Ihrer persönlichen Daten</string>
+    <string name="ae">Das Unternehmen speichert Ihre personenbezogenen Daten nur so lange, wie es für die in dieser Datenschutzrichtlinie dargelegten Zwecke erforderlich ist. Wir werden Ihre personenbezogenen Daten in dem Umfang aufbewahren und verwenden, der zur Erfüllung unserer gesetzlichen Verpflichtungen erforderlich ist (z. B. wenn wir Ihre Daten zur Einhaltung geltender Gesetze aufbewahren müssen), zur Beilegung von Streitigkeiten und zur Durchsetzung unserer rechtlichen Vereinbarungen und Richtlinien.</string>
+    <string name="af">Das Unternehmen speichert außerdem Nutzungsdaten für interne Analysezwecke. Nutzungsdaten werden im Allgemeinen für einen kürzeren Zeitraum gespeichert, es sei denn, diese Daten werden zur Stärkung der Sicherheit oder zur Verbesserung der Funktionalität unseres Dienstes verwendet oder wir sind gesetzlich verpflichtet, diese Daten für längere Zeiträume aufzubewahren.</string>
+    <string name="ag">Übermittlung Ihrer personenbezogenen Daten</string>
+    <string name="ah">Ihre Informationen, einschließlich personenbezogener Daten, werden in den Betriebsbüros des Unternehmens und an allen anderen Orten verarbeitet, an denen sich die an der Verarbeitung beteiligten Parteien befinden. Dies bedeutet, dass diese Informationen möglicherweise an Computer übertragen und dort gespeichert werden, die sich außerhalb Ihres Staates, Ihrer Provinz, Ihres Landes oder einer anderen Regierungshoheit befinden, wo die Datenschutzgesetze möglicherweise von denen Ihrer Gerichtsbarkeit abweichen</string>
+    <string name="ai">Ihre Zustimmung zu dieser Datenschutzrichtlinie und die anschließende Übermittlung dieser Informationen stellen Ihr Einverständnis mit dieser Übertragung dar.</string>
+    <string name="aj">Das Unternehmen wird alle vernünftigerweise notwendigen Schritte unternehmen, um sicherzustellen, dass Ihre Daten sicher und in Übereinstimmung mit dieser Datenschutzrichtlinie behandelt werden und keine Übermittlung Ihrer personenbezogenen Daten an eine Organisation oder ein Land erfolgt, es sei denn, es sind angemessene Kontrollen vorhanden, einschließlich der Sicherheit von Ihre Daten und andere persönliche Informationen.</string>
+    <string name="ak">Offenlegung Ihrer personenbezogenen Daten</string>
+    <string name="al">Wenn das Unternehmen an einer Fusion, Übernahme oder einem Verkauf von Vermögenswerten beteiligt ist, können Ihre personenbezogenen Daten übertragen werden. Wir werden Sie benachrichtigen, bevor Ihre personenbezogenen Daten übertragen werden und einer anderen Datenschutzrichtlinie unterliegen.</string>
+    <string name="am">Strafverfolgung</string>
+    <string name="an">Unter bestimmten Umständen kann das Unternehmen verpflichtet sein, Ihre personenbezogenen Daten offenzulegen, wenn dies gesetzlich vorgeschrieben ist oder wenn eine berechtigte Anfrage von Behörden (z. B. einem Gericht oder einer Regierungsbehörde) vorliegt.</string>
+    <string name="ao">Sonstige gesetzliche Anforderungen</string>
+    <string name="ap">Das Unternehmen kann Ihre personenbezogenen Daten offenlegen, wenn es nach Treu und Glauben davon ausgeht, dass eine solche Maßnahme erforderlich ist, um:</string>
+    <string name="aq">- Einer gesetzlichen Verpflichtung nachkommen</string>
+    <string name="ar">-Schützen und verteidigen Sie die Rechte oder das Eigentum des Unternehmens</string>
+    <string name="as">-Mögliches Fehlverhalten im Zusammenhang mit dem Dienst verhindern oder untersuchen</string>
+    <string name="at">-Schützen Sie die persönliche Sicherheit der Benutzer des Dienstes oder der Öffentlichkeit</string>
+    <string name="au">-Schutz vor gesetzlicher Haftung</string>
+    <string name="av">Sicherheit Ihrer persönlichen Daten</string>
+    <string name="aw">Die Sicherheit Ihrer personenbezogenen Daten ist uns wichtig. Bedenken Sie jedoch, dass keine Methode der Übertragung über das Internet oder Methode der elektronischen Speicherung zu 100 % sicher ist. Obwohl wir bestrebt sind, kommerziell akzeptable Mittel zum Schutz Ihrer personenbezogenen Daten einzusetzen, können wir deren absolute Sicherheit nicht garantieren.</string>
+    <string name="ax">Änderungen dieser Datenschutzrichtlinie</string>
+    <string name="ay">Wir können unsere Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Wir werden Sie über alle Änderungen informieren, indem wir die neue Datenschutzrichtlinie auf dieser Seite veröffentlichen.</string>
+    <string name="az">Wir können unsere Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Wir werden Sie über alle Änderungen informieren, indem wir die neue Datenschutzrichtlinie auf dieser Seite veröffentlichen.</string>
+    <string name="ba">Wir empfehlen Ihnen, diese Datenschutzrichtlinie regelmäßig auf etwaige Änderungen zu überprüfen. Änderungen dieser Datenschutzrichtlinie treten in Kraft, wenn sie auf dieser Seite veröffentlicht werden.</string>
+    <string name="bb">Kontaktiere uns</string>
+    <string name="bc">Wenn Sie Fragen zu dieser Datenschutzrichtlinie haben, können Sie uns kontaktieren:</string>
+    <string name="bd">-Per E-Mail: vclxservices@yahoo.com</string>
+    <string name="be">Letzte Aktualisierung: 1 August 2023</string>
+
+
+
+</resources>

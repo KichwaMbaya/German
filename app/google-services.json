@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131956758719",
+    "project_id": "german-c95f8",
+    "storage_bucket": "german-c95f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131956758719:android:e6df3c527394198d894e0a",
+        "android_client_info": {
+          "package_name": "com.justkeepfaith.ndengaquick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131956758719-hds1v6iupf3n253djs9im8o33jtv4fn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAec-R_kyU9VPO2lgPgUktb0AMyoJcjmo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131956758719-hds1v6iupf3n253djs9im8o33jtv4fn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

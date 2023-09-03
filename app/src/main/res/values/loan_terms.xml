@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="la">Schnelles Geld kann einen Sofortkredit vergeben, um jedem in den USA zu helfen, der Geld benötigt, um sein Geschäft auszubauen, einkaufen zu gehen oder andere Notfälle zu finanzieren.</string>
+    <string name="lb">1.Produkt:</string>
+    <string name="lc">• Kreditbetrag: 10 – 2500 €</string>
+    <string name="ld">• Leihfrist: 90 Tage – 365 Tage</string>
+    <string name="le">Maximales Kreditlimit: 2500 €</string>
+    <string name="lf">Niedrigzins (maximaler effektiver Jahreszins): 12 % pro Jahr</string>
+    <string name="lg">Beispiel: Für Kredite über 200 € mit einer Laufzeit von 90 Tagen fallen folgende Gebühren an:</string>
+    <string name="lh">Monatlicher Zinssatz: 12 % / 12 = 1,00 %</string>
+    <string name="li">Monatlicher Zins: 200 € * 1,00 % = 2 €</string>
+    <string name="lj">Monatliche Gesamtzahlung: 200 € / 3 + 2 € = 68,67 €</string>
+    <string name="lk">Der Gesamtbetrag der Rückzahlungsrechnung einschließlich Tilgung und Zinsen beträgt:</string>
+    <string name="ll">€200 + €200* 1,00%*3 = €206</string>
+    <string name="lm">1.Warum einen Kredit bei Schnelles Geld aufnehmen?</string>
+    <string name="ln">• Keine Kreditauskunft erforderlich</string>
+    <string name="lo">• Papierloser und digitaler Prozess auf Ihrem Handy</string>
+    <string name="lp">• Keine Sicherheitenanforderungen</string>
+    <string name="lq">• Erhalten Sie rund um die Uhr Zugriff auf Kredite, jederzeit und überall</string>
+    <string name="lr">• Wir überweisen den Betrag innerhalb von 30 Minuten nach der Genehmigung direkt auf Ihr Bankkonto</string>
+    <string name="ls">• Deutschlandweit verfügbar.</string>
+    <string name="lt">• Mit zunehmender Kreditwürdigkeit erhöht sich die Kreditgrenze schrittweise</string>
+    <string name="lu">• Verschiedene bequeme Rückzahlungsmethoden</string>
+    <string name="lv">• Sie können eine Kreditverlängerung beantragen, wenn Sie nicht genug Geld zur Rückzahlung haben</string>
+    <string name="lw">2. Wer kann einen Kredit beantragen?</string>
+    <string name="lx">• Deutscher Wohnsitz</string>
+    <string name="lz">• 18-60 Jahre alt</string>
+    <string name="ma">• Hat eine Einnahmequelle.</string>
+    <string name="mb">3.Wie kann ich den Kredit zurückzahlen?</string>
+    <string name="mc">Sie können die Rückzahlung über unsere Bankkontonummer vornehmen, die Ihnen nach der Aufnahme Ihres Darlehens zur Verfügung gestellt wird.</string>
+    <string name="md">• Geben Sie den Betrag ein, den Sie zahlen möchten</string>
+    <string name="me">• Eine gute Rückzahlung erhöht Ihre Kreditwürdigkeit</string>
+    <string name="mf">4. Sicherheit</string>
+    <string name="mg">Ihre Daten sind bei uns sicher. Sie werden über eine sichere HTTPS-Verbindung an uns übertragen und wir geben sie ohne Ihre Zustimmung an niemanden weiter, außer an die Kreditgeber. Alle Transaktionen werden über eine 128-Bit-SSL-Verschlüsselung gesichert.</string>
+    <string name="mh">5. KONTAKTIEREN SIE UNS</string>
+    <string name="mi">Wenn Sie Fragen haben, können Sie uns eine E-Mail an vclxservices@yahoo.com senden</string>
+
+</resources>
